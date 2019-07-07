@@ -7,7 +7,7 @@ import com.sendbird.android.SendBird;
 
 public class BaseApplication extends Application {
 
-    private static final String APP_ID = "996BCC20-975F-4CE9-83E0-7FC58DF51B01"; // US-1 Demo
+    private static final String APP_ID = ""; // Enter your APP ID here after creating a new app in the SendBird dashboard
     public static final String VERSION = "3.0.40";
 
     @Override
